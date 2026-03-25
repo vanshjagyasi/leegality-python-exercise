@@ -4,12 +4,18 @@ A REST API built with Python, Flask, and SQLite for managing network nodes, conn
 
 ## Setup
 
+### Local
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
-
 The server runs at `http://127.0.0.1:5000`.
+
+### Deployed (Railway)
+The API is hosted at:
+```
+https://leegality-python-exercise-production.up.railway.app
+```
 
 ## API Endpoints
 
